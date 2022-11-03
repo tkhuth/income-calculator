@@ -1,10 +1,4 @@
-"""
-Name: Khuth Taiyo
-Username: tkhu335
-StudentID: 929289904
 
-Calculate Incomes after deduction of KiwiSaver
-"""
 import math
 prompt1 = input("Please enter your name: ")
 name_length = len(prompt1)
